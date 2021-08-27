@@ -1,9 +1,5 @@
-print("provando git") 
+a = input("ingrese nombre\n")
 
-print("cambio realizado")
+b = input("ingrese apellido\n")
 
-for num in range(0,10):
-    print(num)
-    print("num")
-
-print("cambio")
+print(f"tu nombre es {a} {b}")
